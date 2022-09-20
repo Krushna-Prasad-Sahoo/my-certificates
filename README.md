@@ -1,2 +1,3 @@
 # My Certifications
-This repository will contain all my certificates.
+
+#### This repository contains all my training as well as global exam certifications.
