@@ -1,2 +1,3 @@
-![red-hat-certified-specialist-in-openshift-administration](https://user-images.githubusercontent.com/64131038/210162273-86faa7ad-72b9-4a87-98e7-f6cff7f6db80.png)
+![red-hat-certified-system-administrator-rhcsa](https://github.com/Krushna-Prasad-Sahoo/my-certificates/assets/64131038/d913b460-03ca-4aff-963b-22c2979df09c)
+![red-hat-certified-engineer-rhce](https://github.com/Krushna-Prasad-Sahoo/my-certificates/assets/64131038/864a0748-2b25-4a82-b660-8bac1391c5fb)
 ![red-hat-certified-specialist-in-containers](https://user-images.githubusercontent.com/64131038/224241697-e0f3d20b-3d98-42b8-a027-e82ac40ed9a1.png)
